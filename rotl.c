@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * rotl_func - function to rotate the stack so the top element becomes the last
+ * rotl_func - function to rotate the stack for the top element becomes the last
  * @stack: input pointer to head of stack
  * @line_number: line count currently reading instructions from
  */
