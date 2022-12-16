@@ -3,7 +3,7 @@
 /**
  * nop_func - function to catch newline, empty line, or nop
  * @stack: input pointer to head of stack
- * @line_number: line count currently reading instructions from
+ * @line_number: line count currently reading instruction from
  */
 
 void nop_func(stack_t **stack, unsigned int line_number)
