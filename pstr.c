@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
-  * pstr_func - print stack as ascii characters
+  * pstr_func - prints stack as ascii characters
   * @stack: pointer to top of stack
   * @line_number: line number
   */
